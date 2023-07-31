@@ -35,5 +35,4 @@ import { HousingLocationComponent } from './housing-location/housing-location.co
 })
 export class AppComponent {
   title = 'Homes';
-  
 }
