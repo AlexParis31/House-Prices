@@ -37,5 +37,3 @@ export class HomeComponent {
     this.housingLocationList = this.housingService.getAllHousingLocations();
   }
   }
-  
-  
